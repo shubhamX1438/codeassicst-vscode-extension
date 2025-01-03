@@ -59,6 +59,6 @@ Extension to assist programmers with different functionalities.
 
 ## License
 
-[MIT License](LICENSE)
+
 
 
